@@ -9,5 +9,5 @@
 - Some University
 
 # Work history
-- Workplace 1
+- Work place 1
 - Work place 2
