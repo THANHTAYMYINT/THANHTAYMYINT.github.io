@@ -1,13 +1,13 @@
 # THANHTAYMYINT.github.io
 
-##Projects
-###Project 1
--Description
--Links
+## Projects
+### Project 1
+- Description
+- Links
 
-#Education
--Some University
+# Education
+- Some University
 
-#Work history
--Workplace 1
--Work place 2
+# Work history
+- Workplace 1
+- Work place 2
